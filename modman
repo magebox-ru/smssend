@@ -1,0 +1,3 @@
+install/app/code/local/Eshift/Smssend/*                             app/code/local/Eshift/Smssend/
+install/app/etc/modules/*                                               app/etc/modules/
+install/app/locale/ru_RU/Eshift_Smssend.csv                         app/locale/ru_RU/Eshift_Smssend.csv
